@@ -59,7 +59,6 @@ schema:
   mqttjson: "bool?"
   mqttlog: "bool?"
   mqttretain: "bool?"
-  mqttint: "str?"
   mqttvar: "str?"
   mqtttopic: "str?"
   lograwdata: "bool?"
