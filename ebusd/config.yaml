@@ -30,7 +30,6 @@ options:
   scanconfig: true
   loglevel_all: "notice"
   mqtttopic: "ebusd"
-  mqttint: ""
   mqttjson: false
 schema:
   mode: "list(enh|ens|udp|tcp)?"
